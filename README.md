@@ -17,9 +17,6 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Control Barrier Functions for Systems with High Relative Degree [[paper]](https://arxiv.org/pdf/1903.04706)
 - [ ] High-Order Control Barrier Functions [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9516971)
 
-## Energy Based Control Barrier Functions
-- [ ] EnCBF
-
 ## Cone Based Control Barrier Functions
 
 - [ ] Collision Cone Control Barrier Functions for Kinematic Obstacle Avoidance in UGVs (ICC'23) [[paper]](https://arxiv.org/pdf/2209.11524.pdf)
@@ -34,6 +31,7 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Almost-Sure Safety Guarantees of Stochastic Zero-Control Barrier Functions Do Not Hold [[paper]](https://arxiv.org/pdf/2312.02430v1.pdf)
 - [ ] Bounding Stochastic Safety: Leveraging Freedman’s Inequality with Discrete-Time Control Barrier Functions [[paper]](https://arxiv.org/pdf/2403.05745.pdf)
 - [ ] Learning a Formally Verified Control Barrier Function in Stochastic Environment (CDC'24) [[paper]](https://arxiv.org/pdf/2403.19332.pdf) [[code]](https://github.com/tayalmanan28/Stochastic-NCBF)
+- [ ] Stochastic Neural Control Barrier Functions [[paper]](https://arxiv.org/pdf/2506.21697)
 
 ## Safe Model-Based RL
 - [ ] End-to-End Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks [[paper]](https://public.websites.umich.edu/~orosz/articles/AAAI_2019_Richard_Richard_Joel.pdf)
@@ -60,13 +58,15 @@ This repository contains a list of papers and their code (if available) for safe
 - [ ] Neural Graph Control Barrier Functions Guided Distributed Collision-avoidance Multi-agent Control (CoRL'23) [[paper]](https://arxiv.org/pdf/2311.13014.pdf) [[code]](https://github.com/MIT-REALM/gcbf-pytorch)
 - [ ] How to Train Your Neural Control Barrier Function: Learning Safety Filters for Complex Input-Constrained Systems (ICRA'24) [[paper]](https://arxiv.org/pdf/2310.15478.pdf) [[code]](https://github.com/MIT-REALM/pncbf)
 - [ ] Learning a Formally Verified Control Barrier Function in Stochastic Environment (CDC'24) [[paper]](https://arxiv.org/pdf/2403.19332.pdf) [[code]](https://github.com/tayalmanan28/Stochastic-NCBF)
+- [ ] Learning Conservative Neural Control Barrier Functions from Offline Data (ICRA'26) [[paper]](https://arxiv.org/pdf/2505.00908) [[code]](https://github.com/tabz23/CCBF)
+- [ ] V-OCBF: Learning Safety Filters from Offline Data via Value-Guided Offline Control Barrier Functions [[paper]](https://arxiv.org/pdf/2512.10822) [[code]](https://github.com/tayalmanan28/v-ocbf)
 
 ## From Visuomotor Inputs
 
 ### Conference/Journal Papers
 - [ ] End-to-End Imitation Learning with Safety Guarantees using Control Barrier Functions (CDC'22) [[paper]](https://arxiv.org/abs/2212.11365)
 - [ ] Learning Robust Output Control Barrier Functions from Safe Expert Demonstrations (OJCSYS'24) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10491341)
-- [ ] Semi-Supervised Safe Visuomotor Policy Synthesis using Barrier Certificates [[paper]](https://arxiv.org/pdf/2409.12616)
+- [ ] Semi-Supervised Safe Visuomotor Policy Synthesis using Barrier Certificates (CDC'25) [[paper]](https://arxiv.org/pdf/2409.12616) [[code]](https://github.com/tayalmanan28/vision_cbf)
 
 
 # Application Specific Papers
